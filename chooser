@@ -56,6 +56,7 @@ if possible_browsers == {}:
     # Common browsers:
     possible_browsers = {'Arora': 'arora',
                          'Chromium': 'chromium-browser',
+                         'Chrome': 'google-chrome',
                          'Dillo': 'dillo',
                          'Epiphany': 'epiphany',
                          'Firefox': 'firefox',
